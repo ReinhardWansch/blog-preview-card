@@ -1,4 +1,5 @@
 
+@import url('./font-Figtree-styles.css');
 
 /*##########*/
 /*## VARS ##*/
@@ -12,6 +13,9 @@
 /*## STYLES ##*/
 /*############*/
 
+body {
+    font-family: 'Figtree', sans-serif;
+}
 
 
 /*#################*/
