@@ -30,18 +30,14 @@ body {
     box-shadow: 8px 8px 0px 0px var(--color-gray-950);
 }
 
-.badge {
+#badge01 {
     color: var(--color-gray-950);
+    background-color: var(--color-yellow);
 }
 
 #cardImg01 {
     max-height: 200px;
     object-fit: cover;
-}
-
-#badge01 {
-    background-color: var(--color-yellow);
-    font-weight: 600;
 }
 
 .card-text {
