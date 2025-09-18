@@ -18,6 +18,8 @@ In this challenge, I want to use not only Bootstrap but also **version managemen
 
 ## What I learned
 
+When using version management with npm, the git tags must be pushed separately to the online repository.
+
 ## Author
 
 - gitHub - [Reinhard Wansch](https://github.com/ReinhardWansch)
