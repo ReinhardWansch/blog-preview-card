@@ -34,6 +34,10 @@ body {
     margin: 0;
 }
 
+.avatar-label img {
+    max-height: 3rem;
+}
+
 
 /*#################*/
 /*## ATTRIBUTION ##*/
