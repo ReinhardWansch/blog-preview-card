@@ -21,6 +21,20 @@ body {
 }
 
 
+
+#card01 {
+    max-width: 384px;
+}
+
+#cardImg01 {
+    max-height: 200px;
+}
+
+.avatar-label {
+    margin: 0;
+}
+
+
 /*#################*/
 /*## ATTRIBUTION ##*/
 /*#################*/
