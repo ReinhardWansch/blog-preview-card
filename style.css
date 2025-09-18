@@ -10,6 +10,8 @@
     --color-gray-950: #111111;
     --color-gray-500: #6B6B6B;
     --color-white: #FFFFFF;
+
+    --fs-subtitle: 0.9rem;
 }
 
 /*############*/
@@ -20,14 +22,27 @@ body {
     font-family: 'Figtree', sans-serif;
 }
 
-
-
 #card01 {
     max-width: 384px;
+    color: var(--color-gray-950);
+}
+
+.badge {
+    color: var(--color-gray-950);
 }
 
 #cardImg01 {
     max-height: 200px;
+    object-fit: cover;
+}
+
+#badge01 {
+    background-color: var(--color-yellow);
+    font-weight: 600;
+}
+
+.card-text {
+    color: var(--color-gray-500);
 }
 
 .avatar-label {
@@ -35,9 +50,16 @@ body {
 }
 
 .avatar-label img {
-    max-height: 3rem;
+    max-height: 2.5rem;
 }
 
+/*##########*/
+/*## UTIL ##*/
+/*##########*/
+
+.fs-subtitle {
+    font-weight: var(--fs-subtitle);
+}
 
 /*#################*/
 /*## ATTRIBUTION ##*/
