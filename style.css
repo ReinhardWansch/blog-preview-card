@@ -40,6 +40,11 @@ body {
     object-fit: cover;
 }
 
+.card-title:hover {
+    cursor: pointer;
+    color: var(--color-yellow);
+}
+
 .card-text {
     color: var(--color-gray-500);
 }
