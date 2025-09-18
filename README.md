@@ -8,8 +8,8 @@ In this challenge, I want to use not only Bootstrap but also **version managemen
 
 ## Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Blog preview card](https://www.frontendmentor.io/solutions/blog-preview-card-_nODW4kJ_O)
+- Live Site URL: [Github pages](https://reinhardwansch.github.io/blog-preview-card/)
 
 ## Built with
 
